@@ -1,0 +1,17 @@
+{
+  "name": "my-syslog-handler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "intel": "1.1.0"
+  },
+  "author": "sdorofeev",
+  "license": "ISC",
+  "dependencies": {
+    "syslogger": "^0.2.0"
+  }
+}
